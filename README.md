@@ -1,5 +1,5 @@
 # MUSIC
-A GUI FOR MP3 AND M4A FILES HOSTED ON A LOCAL MACHINE
+# A GUI FOR MP3 AND M4A FILES HOSTED ON A LOCAL MACHINE
 
 This deployment utilizes HTML, CSS, and Javascript to create a graphical user interface that can manage .mp3 and .m4a
 files (possibly others) on the user's local machine (Linux and MacOS tested and operational).
