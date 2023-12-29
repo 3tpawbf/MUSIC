@@ -49,6 +49,16 @@ Then you can add whatever music files you want to the index.html file to make wh
 storage will allow.
 <br>
 <br>
+Credit to <a href="https://www.codehim.com/author/asif-mughal/">Asif Mughal</a> for providing the template for me to 
+create my own music player on <a href="https://www.codehim.com/">CodeHim.com</a>. Also thanks to <a href="https://www.twitch.tv/yoorubytv">yoorubytv</a> 
+<a href="https://www.twitch.tv/yuka_with_data">yuka_with_data</a> for providing co-work support while I wrote my own code. 
+With their help I was able to create my own media player with about 10,000 songs from my mp3 and m4a collection. It runs
+on a host Linux machine and allows me to access it via my Macbook Air on the local network. This took me about 120 hours to 
+complete.
+<br>
+<br>
+
+
 
 
 
