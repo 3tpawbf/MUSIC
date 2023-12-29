@@ -35,7 +35,7 @@ Once you have initiated the python3HTTPSAuthServer on the host machine and it is
 the instance via the address bar with the following:
 <br>
 <br>
-`https://107.207.147.117:22/`
+`https://107.207.147.117:22`
 <br>
 <br>
 This will ask the client user for the username and password and then it will run whatever is in the host directory's space.
